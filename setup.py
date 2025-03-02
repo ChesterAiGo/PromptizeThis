@@ -11,7 +11,7 @@ setuptools.setup(
     description="Interactive GUI to generate prompts from codebase files.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/ChesterAiGo/PromptizeThiss",
+    url="https://github.com/ChesterAiGo/PromptizeThis",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
